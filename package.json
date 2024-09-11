@@ -1,0 +1,24 @@
+{
+  "name": "blueprint-uis",
+  "version": "1.0.0",
+  "description": "Blueprint UI adalah komponen React reusable yang menyediakan template dasar untuk UI aplikasi dengan tata letak dan gaya yang konsisten.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payoprintapps/blueprint-ui.git"
+  },
+  "keywords": [
+    "uikit",
+    "ui-design",
+    "ui-components"
+  ],
+  "author": "ekovegeance",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/payoprintapps/blueprint-ui/issues"
+  },
+  "homepage": "https://github.com/payoprintapps/blueprint-ui#readme"
+}
